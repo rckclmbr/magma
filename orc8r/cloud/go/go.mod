@@ -62,7 +62,7 @@ require (
 	golang.org/x/tools v0.0.0-20191012152004-8de300cfc20a
 	google.golang.org/grpc v1.27.1
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.4.0
 	magma/gateway v0.0.0
 	magma/orc8r/lib/go v0.0.0-00010101000000-000000000000
 	magma/orc8r/lib/go/protos v0.0.0
