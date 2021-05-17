@@ -41,7 +41,7 @@ require (
 	github.com/gorilla/handlers v1.4.0 // indirect
 	github.com/labstack/echo v0.0.0-20181123063414-c54d9e8eed6c
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
-	github.com/lib/pq v1.2.0
+	github.com/lib/pq v1.10.2
 	github.com/mattn/go-sqlite3 v1.11.0
 	github.com/olivere/elastic/v7 v7.0.6
 	github.com/pkg/errors v0.8.1
